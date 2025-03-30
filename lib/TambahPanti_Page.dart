@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'main.dart';
-import 'tutorial_11-2.dart';
+import 'package:hand2heart/now.dart';
 
 void main() {
   runApp(const MyApp11_1());
